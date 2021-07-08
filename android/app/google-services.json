@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "617015834191",
+    "project_id": "vcu-signin",
+    "storage_bucket": "vcu-signin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617015834191:android:2ba2bf6698f78038775c3a",
+        "android_client_info": {
+          "package_name": "com.example.vcu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617015834191-j5uhmguqk6cbh32r4j7g7iutaqvsjvpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB94O-Vtu7l3ay-09aEiksltAGc2uC33cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617015834191-j5uhmguqk6cbh32r4j7g7iutaqvsjvpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
